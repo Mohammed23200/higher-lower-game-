@@ -17,7 +17,7 @@
 ├── game_data.py               # List of dictionaries (data about celebs/accounts)
 ├── assets/
 │   └── higher-lower-banner.png    # (Optional) Game banner
-└── flowchart.drawio           # Game logic flowchart
+
 ```
 🎮 Features
 Compare two random public figures/accounts 👥
@@ -32,7 +32,6 @@ Clean ASCII UI 🎨
 
 Modular design (art, data, logic separated) 🧩
 
-Flowchart included for logic clarity 💡
 
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/ea7c34ae-2817-4d42-a248-b422d1f6d8c9)
@@ -54,7 +53,7 @@ Make sure all files are in the same directory.
 
 🧠 Based on: Dr. Angela Yu's #100DaysOfCode
 
-🧑‍💻 My GitHub Profile: YourGitHubUsername
+🧑‍💻 My GitHub Profile: https://github.com/Mohammed23200
 
-📁 This Project Repo: Higher Lower Repo
-
+📁 This Project Repo: https://github.com/Mohammed23200/higher-lower-game-
+☕ linkedIn post :https://www.linkedin.com/posts/mohammed-gamal-4012122b5_100daysofcode-python-pythonprojects-activity-7344023381203193857-UOV8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEusCMEBlqA5l7VNDV6ynoKsXvO5Jq7ixNA
